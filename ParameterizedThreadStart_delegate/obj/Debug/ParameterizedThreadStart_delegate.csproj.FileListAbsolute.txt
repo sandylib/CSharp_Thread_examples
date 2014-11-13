@@ -1,0 +1,5 @@
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\ParameterizedThreadStart_delegate\bin\Debug\ParameterizedThreadStart_delegate.exe.config
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\ParameterizedThreadStart_delegate\bin\Debug\ParameterizedThreadStart_delegate.exe
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\ParameterizedThreadStart_delegate\bin\Debug\ParameterizedThreadStart_delegate.pdb
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\ParameterizedThreadStart_delegate\obj\Debug\ParameterizedThreadStart_delegate.exe
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\ParameterizedThreadStart_delegate\obj\Debug\ParameterizedThreadStart_delegate.pdb

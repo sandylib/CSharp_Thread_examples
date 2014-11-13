@@ -1,0 +1,5 @@
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\Passing_data_Thread_function_type_safe\bin\Debug\Passing_data_Thread_function_type_safe.exe.config
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\Passing_data_Thread_function_type_safe\bin\Debug\Passing_data_Thread_function_type_safe.exe
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\Passing_data_Thread_function_type_safe\bin\Debug\Passing_data_Thread_function_type_safe.pdb
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\Passing_data_Thread_function_type_safe\obj\Debug\Passing_data_Thread_function_type_safe.exe
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\Passing_data_Thread_function_type_safe\obj\Debug\Passing_data_Thread_function_type_safe.pdb

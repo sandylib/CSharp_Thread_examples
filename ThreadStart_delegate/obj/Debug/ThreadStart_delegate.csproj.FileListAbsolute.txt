@@ -1,0 +1,6 @@
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\ThreadStart_delegate\bin\Debug\ThreadStart_delegate.exe.config
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\ThreadStart_delegate\bin\Debug\ThreadStart_delegate.exe
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\ThreadStart_delegate\bin\Debug\ThreadStart_delegate.pdb
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\ThreadStart_delegate\obj\Debug\ThreadStart_delegate.exe
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\ThreadStart_delegate\obj\Debug\ThreadStart_delegate.pdb
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\ThreadStart_delegate\obj\Debug\ThreadStart_delegate.csprojResolveAssemblyReference.cache

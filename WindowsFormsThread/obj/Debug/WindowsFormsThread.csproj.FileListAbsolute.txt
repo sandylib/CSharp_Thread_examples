@@ -1,0 +1,9 @@
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\WindowsFormsThread\bin\Debug\WindowsFormsThread.exe.config
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\WindowsFormsThread\bin\Debug\WindowsFormsThread.exe
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\WindowsFormsThread\bin\Debug\WindowsFormsThread.pdb
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\WindowsFormsThread\obj\Debug\WindowsFormsThread.csprojResolveAssemblyReference.cache
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\WindowsFormsThread\obj\Debug\WindowsFormsThread.Form1.resources
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\WindowsFormsThread\obj\Debug\WindowsFormsThread.Properties.Resources.resources
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\WindowsFormsThread\obj\Debug\WindowsFormsThread.csproj.GenerateResource.Cache
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\WindowsFormsThread\obj\Debug\WindowsFormsThread.exe
+C:\Users\sandy\Documents\Visual Studio 2013\Projects\WindowsFormsThread\WindowsFormsThread\obj\Debug\WindowsFormsThread.pdb
